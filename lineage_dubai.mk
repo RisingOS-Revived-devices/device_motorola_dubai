@@ -19,16 +19,6 @@ TARGET_PREBUILT_BCR := true
 # Addons
 TARGET_HAS_UDFPS := true
 
-# Gms 
-WITH_GMS := true
-
-TARGET_CORE_GMS := true
-
-TARGET_CORE_GMS_EXTRAS := true
-
-# Ship Pixel Launcher
-TARGET_DEFAULT_PIXEL_LAUNCHER := true
-
 # Lawnchair Prebuilt
 TARGET_PREBUILT_LAWNCHAIR_LAUNCHER := true
 
